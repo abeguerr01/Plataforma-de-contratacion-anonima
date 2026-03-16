@@ -1,5 +1,5 @@
 # CREDITOS
-### PROGRAMA CREADO POR Alejandro Beguer Ruiz  
+### PROGRAMA CREADO POR Alejandro Beguer y Gabriel Palomo  
 ### Grupo: SALAS EMPRENDE  
 ### Centro: IES NEWTON-SALAS (Villanueva de la Torre)
 ___________________________________________________
